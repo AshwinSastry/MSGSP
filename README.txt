@@ -1,0 +1,1 @@
+This project is the implementation of MSGSP algorithm as a part of Data Mining coursework.
